@@ -1,0 +1,52 @@
+Step 1: Project Setup ✅
+  Initialize the project for frontend and backend 
+  create the basic folder structure for the project in frontend
+
+Step 2: UI Design & Frontend Setup ✅
+  Set up React router and implement basic navigation between screens.
+  Design all UI screens for features like signup, login, post feed, user profile, and more.
+
+Step 3: Authentication APIs (Signup & Login) ✅
+  Create APIs for user signup and login, including token generation.
+  Implement authentication logic in the frontend (using tokens or cookies) for secure access to protected routes.
+
+Step 4: Post Creation API (Including Image Upload) ✅
+  Build the API for uploading posts with image upload functionality.
+  Integrate the post creation functionality into the frontend, including image previews and post submission.
+
+Step 5: Fetching Posts API ✅
+  Create an API to fetch all posts (with pagination if needed).
+  Implement the post feed in the frontend, displaying posts dynamically.
+
+Step 6: Like Post API
+  Develop an API to like/unlike posts.
+  Integrate the like button functionality in the frontend, ensuring it updates dynamically.
+
+Step 7: Commenting on Post API
+  Build the API to allow users to comment on posts.
+  Implement the commenting feature in the frontend.
+
+Step 8: Fetching User Details API
+  Create an API to fetch user details (profile info, posts, etc.).
+  Implement user profile pages in the frontend, fetching and displaying relevant user data.
+
+Step 9: Follow/Unfollow User API
+  Build the APIs for following and unfollowing users.
+  Implement follow/unfollow functionality in the frontend, updating the UI accordingly.
+
+Step 10: Update User Bio API
+  Create an API to allow users to update their bio (for viewers to see).
+  Implement the bio update feature in the frontend with an editable section on the user profile.
+
+Step 11: Secure APIs
+  Implement authentication and authorization checks for all APIs to ensure only authorized users can perform actions.
+  Use security best practices like password hashing, token-based authentication (JWT), and input validation.
+
+Step 12: Secure Routes
+  Secure all routes in the frontend to restrict access to authenticated users only.
+  Redirect unauthorized users to login/signup pages.
+
+Step 13: (For viewers) 
+  Like, Share, And Subscribe (If they want)
+  Comment also 
+  Ask questions/doubts
